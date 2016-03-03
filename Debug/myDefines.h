@@ -1,0 +1,11 @@
+#define BUILD_HOUR 17 
+#define BUILD_MINUTE 11 
+#define BUILD_SECOND 53 
+#define BUILD_DAY 20  
+#define BUILD_MONTH 06 
+#define BUILD_INT_YEAR 2014  
+#define BUILD_BCD_HOUR 0x17  
+#define BUILD_BCD_MINUTE 0x11  
+#define BUILD_BCD_SECOND 0x53 
+#define BUILD_BCD_DAY 0x20  
+#define BUILD_BCD_MONTH 0x06 

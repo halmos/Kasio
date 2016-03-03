@@ -1,0 +1,12 @@
+#define BUILD_TIME 10:51:29.94 
+#define BUILD_HOUR 10 
+#define BUILD_MINUTE 51 
+#define BUILD_SECOND 29 
+#define BUILD_DAY 03  
+#define BUILD_MONTH 03 
+#define BUILD_INT_YEAR 2016  
+#define BUILD_BCD_HOUR 0x10  
+#define BUILD_BCD_MINUTE 0x51  
+#define BUILD_BCD_SECOND 0x29 
+#define BUILD_BCD_DAY 0x03  
+#define BUILD_BCD_MONTH 0x03 

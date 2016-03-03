@@ -1,0 +1,1 @@
+"./LCD.obj" "./UI.obj" "./main.obj" "./rtc.obj" "./termperature.obj" "../lnk_msp430f4152.cmd" -l"libc.a" 

@@ -1,0 +1,1 @@
+"./LCD.obj" "./auerbach_patterns.obj" "./dexterSinister.obj" "./main.obj" "./rtc.obj" "./ta_UI.obj" "./termperature.obj" "../lnk_msp430f4152.cmd" -l"libc.a" 
